@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://gs-dlanjwa-attorneys.vercel.app/sitemap.xml
+# Search engines: noindex via HTML meta until client approval. Social preview crawlers may fetch pages.
